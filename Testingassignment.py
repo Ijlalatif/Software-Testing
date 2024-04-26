@@ -1,4 +1,4 @@
-
+#changes are made
 
 def is_isosceles_triangle(a, b, c):
     if a == b or a == c or b == c:
